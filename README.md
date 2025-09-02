@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-src="https://skillicons.dev/icons?i=<c>"
-src="https://skillicons.dev/icons?i=<cpp>"
-src="https://skillicons.dev/icons?i=<py>"
-src="https://skillicons.dev/icons?i=<linux>"
+src="https://skillicons.dev/icons?i=c"
+src="https://skillicons.dev/icons?i=cpp"
+src="https://skillicons.dev/icons?i=py"
+src="https://skillicons.dev/icons?i=linux"
 
 
 
