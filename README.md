@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+src="https://skillicons.dev/icons?i=<c>"
+src="https://skillicons.dev/icons?i=<cpp>"
+src="https://skillicons.dev/icons?i=<py>"
+src="https://skillicons.dev/icons?i=<linux>"
+
+
+
 <!--
 **gorispe/gorispe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
