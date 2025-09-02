@@ -12,7 +12,6 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorispe&layout=pie)](https://github.com/anuraghazra/github-readme-stats">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gorispe&theme=default">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gorispe&theme=default">
 
