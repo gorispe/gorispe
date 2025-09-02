@@ -1,10 +1,13 @@
 ## Hi there 👋
 
-src="https://skillicons.dev/icons?i=c"
-src="https://skillicons.dev/icons?i=cpp"
-src="https://skillicons.dev/icons?i=py"
-src="https://skillicons.dev/icons?i=linux"
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c">
+    <img src="https://skillicons.dev/icons?i=cpp">
+    <img src="https://skillicons.dev/icons?i=py">
+    <img src="https://skillicons.dev/icons?i=linux">
+  </a>
+</p>
 
 
 <!--
